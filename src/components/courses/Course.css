@@ -1,0 +1,9 @@
+.cour-main{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    margin: 180px;
+    margin-top: 150px;
+}

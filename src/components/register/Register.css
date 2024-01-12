@@ -1,0 +1,47 @@
+form {
+    min-height: 590px;
+}
+
+form input{
+    height: 40px;
+}
+
+form{
+    width: 30%;
+    height: 400px;
+    margin: auto;
+    /* border: 2px solid red; */
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+form input{
+    width: 380px;
+    height: 45px;
+    margin-bottom:35px;
+    margin-left: 40px;
+    border: 2px solid white;
+    border-radius: 5px;
+    border-bottom: 2px solid black;
+    background-color: #2071ad21;
+}
+form .p-tp{
+    text-align: center;
+    font-size: 23px;
+}
+
+form .p-bt{
+    margin-left: 40px;
+}
+
+form button{
+    width: 120px;
+    height: 40px;
+    background-color: rgb(57 85 136);
+    color: white;
+    border: 2px solid white;
+    border-radius: 4px;
+    margin-left: 40px;
+
+}

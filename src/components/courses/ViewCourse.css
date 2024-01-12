@@ -1,0 +1,19 @@
+.div-main{
+    display: flex;
+}
+.div-lf{
+    height: 400px;
+    width: 50%;
+    border: 2px solid red;
+    margin-top: 100px;
+}
+
+.div-rt{
+    height: 800px;
+    width: 35%;
+    border: 2px solid yellow;
+    margin-top: 100px;
+    position: absolute;
+    right: 10px;
+}
+

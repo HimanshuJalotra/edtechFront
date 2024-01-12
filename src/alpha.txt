@@ -1,0 +1,20 @@
+        <div className="div-main">
+        <div className="div-lf">
+          <iframe
+            width="756"
+            height="400"
+            src={classe.link}
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>{" "}
+          <iframe src="" frameborder="0"></iframe>
+        </div>
+
+        <div className="div-mid"></div>
+
+        <div className="div-rt">
+          <Scroller/>
+        </div>
+      </div>

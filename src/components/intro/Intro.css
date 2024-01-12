@@ -1,0 +1,25 @@
+.main{
+    height: 550px;
+    width: 100%;
+    display: flex;
+}
+
+.main-lt{
+    width:40%;
+    /* border: 2px solid red; */
+    height: 100%;
+}
+.main-lt h2{
+    margin-top: 150px;
+}
+
+.main-rt{
+    width: 60%;
+    /* border: 2px solid blue; */
+    height: 100%;
+}
+.main-rt img{
+    margin-top: 63px;
+    width: 100%;
+    height: 88%;
+}
